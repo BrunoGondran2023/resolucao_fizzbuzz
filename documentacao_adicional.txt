@@ -1,0 +1,21 @@
+# Documentação Adicional
+
+Este documento fornece informações detalhadas sobre a implementação do projeto FizzBuzz.
+
+## Estrutura do Projeto
+
+- `fizz_buzz.py`: Contém a implementação da função FizzBuzz e a função principal `main()`.
+- `readme.md.txt`: Documentação principal do projeto.
+- `license.txt`: Arquivo de licença do projeto.
+
+## Como Contribuir
+
+1. Fork o repositório.
+2. Crie um branch para a sua feature (`git checkout -b minha-feature`).
+3. Commit suas mudanças (`git commit -am 'Adiciona minha feature'`).
+4. Push para o branch (`git push origin minha-feature`).
+5. Abra um Pull Request.
+
+## Contato
+
+Para mais informações, entre em contato pelo email: [brunogondran2023@gmail.com](mailto:brunogondran2023@gmail.com).
